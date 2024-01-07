@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Callum Belfield's CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+
+        header {
+            border-bottom: 2px solid #000;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <section id="contact-information">
+            <h2>Contact Information:</h2>
+            <ul>
+                <li><strong>Full Name:</strong> Callum Belfield</li>
+                <li><strong>Address:</strong> 26 Shipman Avenue, Canterbury, Kent, CT28PD</li>
+                <li><strong>Phone Number:</strong> 07552113520</li>
+                <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/callum-belfield-870132245/"
+                        target="_blank">LinkedIn Profile</a></li>
+                <li><strong>Email:</strong> Callum.belfield.main@gmail.com</li>
+            </ul>
+        </section>
+    </header>
+
+    <section id="introduction">
+        <h2>Introduction:</h2>
+        <p>Passionate about contributing to open source projects to enhance my skills and resume. Aspiring to establish my
+            own software business to offer diverse products and services while refining soft skills in teamwork and project
+            management. Currently seeking an internship in software engineering to apply and advance my technical expertise
+            within a dynamic and collaborative environment.</p>
+    </section>
+
+    <section id="professional-summary">
+        <h2>Professional Summary:</h2>
+        <p>Dynamic and hands-on individual with a proven track record of building devices from scratch, including PCs and a
+            cryptocurrency mining rig. Possesses valuable experience in problem-solving within the challenging Tedi London
+            project.</p>
+    </section>
+
+    <section id="education">
+        <h2>Education:</h2>
+        <ul>
+            <li>Foundation Engineering Qualification</li>
+            <li>A Levels:
+                <ul>
+                    <li>BTEC Level 3 Business: Distinction</li>
+                    <li>BTEC Level 3 Finance: C</li>
+                    <li>BTEC Level 3 Imedia: Merit</li>
+                </ul>
+            </li>
+            <li>Future qualifications: Pursuing a Master's in Software Engineering at Canterbury Christ Church University 2023-2026
+            </li>
+        </ul>
+    </section>
+
+    <section id="work-experience">
+        <h2>Work Experience:</h2>
+        <ul>
+            <li><strong>Most Recent Job Titles:</strong> Labourer, Night Warehouse Operative</li>
+            <li><strong>Workplaces:</strong> Diverse roofing companies (self-employed), ASDA</li>
+            <li><strong>Primary Responsibilities:</strong>
+                <ul>
+                    <li>Warehousing: Skilfully managed receiving, unpacking, and organisation of products. Diligently monitored and
+                        restocked inventory, ensuring impeccable labelling and display.</li>
+                    <li>Labouring: Maintained meticulous workspaces, supported colleagues, and handled materials and equipment with
+                        precision and safety.</li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+
+    <section id="skills">
+        <h2>Skills:</h2>
+        <ul>
+            <li><strong>Technical Skills:</strong> Demonstrated proficiency in building PCs and a cryptocurrency mining rig.</li>
+            <li><strong>Soft Skills:</strong>
+                <ul>
+                    <li>Effective communication honed through experiences in construction sites and retail.</li>
+                    <li>Keen observation skills, a strong problem solver, and a timely and accurate employee.</li>
+                    <li>Enthusiastic learner with an adaptive mindset for the workplace.</li>
+                </ul>
+            </li>
+        </ul>
+    </section>
+
+    <section id="achievements">
+        <h2>Achievements:</h2>
+        <p>Successfully completed a Foundation Engineering Year, equivalent to a Level 3 or 4 entry-level qualification.</p>
+    </section>
+
+    <section id="references">
+        <h2>References:</h2>
+        <p>Available upon request.</p>
+    </section>
+
+</body>
+
+</html>
